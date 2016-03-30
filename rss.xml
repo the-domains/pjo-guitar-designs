@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PJO Guitar Designs]]></title>
         <description><![CDATA[PJO Guitar Designs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pjo-guitar-designs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 16:37:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 16:42:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pjo-guitar-designs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f29d145d-51bc-4ead-bc05-ccffe97875a6.jpg">]]></description>
+            <link>https://thegrid.ai/pjo-guitar-designs/e0c2dc16-d506-4e36-a1df-353c20785e38/index.html</link>
+            <guid isPermaLink="false">e0c2dc16-d506-4e36-a1df-353c20785e38</guid>
+            <pubDate>Wed, 30 Mar 2016 16:41:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8d6b7ff-db7f-496f-85f3-f93a00cb862e.jpg">]]></description>
-            <link>undefinedhandcrafted-guitars/index.html</link>
+            <link>https://thegrid.ai/pjo-guitar-designs/handcrafted-guitars/index.html</link>
             <guid isPermaLink="false">de199cb9-4c5f-48bb-8fd4-84b28ba008dd</guid>
             <pubDate>Wed, 30 Mar 2016 16:37:33 GMT</pubDate>
         </item>
