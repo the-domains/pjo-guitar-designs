@@ -1,6 +1,6 @@
 name: PJO Guitar Designs
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.8989
 typography_spectrum: 0.35921567934565246
 title: PJO Guitar Designs
 cta:
@@ -22,8 +22,8 @@ color:
     - '#433937'
     - '#b74e4d'
     - '#c58f55'
-  brandStrength: 0.5130950030870736
+  brandStrength: 0.625
   lightness: 0.25
   saturation: 0.6875
-  rhythmicContrast: 0.5053237094543874
+  rhythmicContrast: 0.5
 purpose: []
