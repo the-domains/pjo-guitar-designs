@@ -1,29 +1,41 @@
-name: PJO Guitar Designs
-favicon: null
-layout_spectrum: 0.71746
-typography_spectrum: 0.35921567934565246
 title: PJO Guitar Designs
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-37085210-10
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.54198
+  brandStrength: 0.5
+  lightness: 0.5068922
   brandColors:
     - '#180d0b'
     - '#fffffd'
     - '#433937'
     - '#b74e4d'
     - '#c58f55'
-  brandStrength: 0.5
-  lightness: 0.4375
-  saturation: 0.1875
   rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-37085210-10
+  facebook: null
+name: PJO Guitar Designs
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3592156793456525
+layout_spectrum: 0.71746
